@@ -49,4 +49,4 @@ for i in range(len(operations)):
     stack.push(int(data[i]))
   elif operations[i] == "pop":
     stack.pop()
-stack.status()
+stack.status() 
